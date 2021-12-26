@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="250sp">
+    <TextView
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        style="@style/CardView.Dark"
+        android:textStyle="bold"
+        android:textColor="@color/MyfavouriteColor"
+        android:textAppearance="@style/Widget.MaterialComponents.Snackbar"
+        android:id="@+id/add_notification"
+        app:drawableStartCompat="@drawable/ic_baseline_notifications_none_24" />
+</RelativeLayout>
+

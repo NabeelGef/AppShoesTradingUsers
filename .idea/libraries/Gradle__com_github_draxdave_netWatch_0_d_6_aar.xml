@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.draxdave:netWatch:0.d.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/transforms-2/files-2.1/010cf0a2d8170695d74314f5cc633f0b/jetified-netWatch-0.d.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/transforms-2/files-2.1/010cf0a2d8170695d74314f5cc633f0b/jetified-netWatch-0.d.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/modules-2/files-2.1/com.github.draxdave/netWatch/0.d.6/842d88587f8dcfee598f7a8139dfef0303b8cb21/netWatch-0.d.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

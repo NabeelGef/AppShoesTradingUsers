@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="350sp"
+    android:background="@drawable/bordertext">
+        <ImageView
+            android:layout_width="150sp"
+            android:layout_height="150sp"
+            android:layout_centerVertical="true"
+            android:id="@+id/BuyImage"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@+id/BuyImage"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:textSize="25sp"
+            android:textColor="@color/MyfavouriteColor"
+            android:id="@+id/BuySize"
+            tools:ignore="Suspicious0dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:textSize="25sp"
+            android:textColor="@color/MyfavouriteColor"
+            android:id="@+id/BuyName"/>
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_weight="1"
+         android:layout_height="0dp"
+         android:textSize="25sp"
+         android:textColor="@color/MyfavouriteColor"
+        android:id="@+id/BuyColor"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:textSize="25sp"
+        android:textColor="@color/MyfavouriteColor"
+        android:id="@+id/BuyPrice"/>
+    </LinearLayout>
+</RelativeLayout>

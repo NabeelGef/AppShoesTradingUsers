@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FireBaseNabeel</string>
+    <string name="signup">SignUp</string>
+    <string name="password">Password:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="telnumber">TelNumber:</string>
+    <string name="add_your_photo">add your photo</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="sign_in_facebook">sign in Facebook</string>
+    <string name="sign_in_google">sign in Google</string>
+    <string name="signin">SignIn</string>
+    <string name="info_amal">
+        This app is for Al Amal Trade Fair\n
+        You can buy the right shoes at the right price\n
+        Through a list of our distinctive products with
+        all the various assortments that serve you while you are at home.\n
+        This application allows you to reserve the shoes you want
+        to buy before you arrive at the store.\n
+        You can see all the shoes of all kinds
+        (men + women + boys + girls + baby) with all the sizes you want and we have...
+        To contact us, contact the numbers:\n
+        0955760913\n
+        ***********\n
+        ***********\n
+        In the event of any complaint or any defect,
+        contact us immediately All rights reserved..</string>
+    <string name="price">Price</string>
+    <string name="category">Category:</string>
+    <string name="sizes">sizes :</string>
+    <string name="colors">colors :</string>
+    <string name="description">Description</string>
+    <string name="made">Made :</string>
+    <string name="buy_shoes">Buy Shoes</string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+    <string name="boy">Boy</string>
+    <string name="girl">Girl</string>
+    <string name="baby">Baby</string>
+    <string name="batic">batic</string>
+    <string name="msg_token_fmt">Hello Nabeel</string>
+    <string name="msg_subscribe_failed">Failed subscribe</string>
+    <string name="batik">Batik</string>
+</resources>
